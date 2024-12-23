@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31e233bcd2b724571ad33d7b3386df95, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: 
+  plantName: Carrot
+  plantStages:
+  - {fileID: -69178228, guid: c289e31896228423f8e58db6cd50bbff, type: 3}
+  - {fileID: 448118240, guid: 9ab8f1ec7a6e644d68fbd0bc89f2b227, type: 3}
+  - {fileID: 1782033552, guid: 9ab8f1ec7a6e644d68fbd0bc89f2b227, type: 3}
+  timeBtwStages: 9
+  buyPrice: 60
+  sellPrice: 200
+  icon: {fileID: 21300000, guid: 099fd872f8fd240bca0ca85cfd613ec2, type: 3}
+  dryPlanted: {fileID: 2109447439, guid: 5fab8a37e79294c1092cf7f10a742196, type: 3}

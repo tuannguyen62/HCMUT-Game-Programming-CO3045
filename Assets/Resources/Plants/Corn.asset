@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31e233bcd2b724571ad33d7b3386df95, type: 3}
+  m_Name: Corn
+  m_EditorClassIdentifier: 
+  plantName: Corn
+  plantStages:
+  - {fileID: -69178228, guid: c289e31896228423f8e58db6cd50bbff, type: 3}
+  - {fileID: -608555333, guid: c289e31896228423f8e58db6cd50bbff, type: 3}
+  - {fileID: -1250800800, guid: c289e31896228423f8e58db6cd50bbff, type: 3}
+  - {fileID: 243018937, guid: c289e31896228423f8e58db6cd50bbff, type: 3}
+  timeBtwStages: 2
+  buyPrice: 10
+  sellPrice: 20
+  icon: {fileID: 475224790, guid: c289e31896228423f8e58db6cd50bbff, type: 3}
+  dryPlanted: {fileID: 2109447439, guid: 5fab8a37e79294c1092cf7f10a742196, type: 3}

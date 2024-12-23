@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31e233bcd2b724571ad33d7b3386df95, type: 3}
+  m_Name: Raspberry
+  m_EditorClassIdentifier: 
+  plantName: Raspberry
+  plantStages:
+  - {fileID: -69178228, guid: c289e31896228423f8e58db6cd50bbff, type: 3}
+  - {fileID: -150440229, guid: 7d89d708741f449ff924e37ca9404392, type: 3}
+  - {fileID: 146931497, guid: 7d89d708741f449ff924e37ca9404392, type: 3}
+  - {fileID: -1997961013, guid: 7d89d708741f449ff924e37ca9404392, type: 3}
+  timeBtwStages: 15
+  buyPrice: 50
+  sellPrice: 150
+  icon: {fileID: -1786984551, guid: 157aba5301ed84e3e8f2ac1d2e96cf2e, type: 3}
+  dryPlanted: {fileID: 2109447439, guid: 5fab8a37e79294c1092cf7f10a742196, type: 3}
